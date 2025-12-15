@@ -1,4 +1,4 @@
-<h1 align="center">Salut salut t'as deux minutes 👋, I'm Je me nomme Elyes</h1>
+<h1 align="center">Salut salut t'as deux minutes 👋, Je me nomme Elyes</h1>
 <h3 align="center">Je préfère le front, mais juste car j'ai pas encore testé le back</h3>
 
 - 🔭 Je suis entrain de travailler sur **App qui compte les kcal**
